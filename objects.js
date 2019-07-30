@@ -1,6 +1,6 @@
 var playlist = {
   'Julio Iglesias': 'Fragile', 
-  'Someone else': 'Something else'
+  'Celine Dion': 'I'm Alive'
 }
 
  function updatePlaylist(playlist, artistName, songTitle) {
